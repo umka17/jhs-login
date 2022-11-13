@@ -355,12 +355,12 @@ template {
 body,
 html{
     font-family: 'Montserrat', sans-serif;
-    background: #0039a1;
+    background: #003296;
 }
 
 
 .login-page__wrapper{
-    background: #0039a1;
+    background: #003296;
     height: 100vh;
     max-width: 1920px;
     margin: 0 auto;
